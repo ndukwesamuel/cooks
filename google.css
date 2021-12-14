@@ -1,0 +1,36 @@
+.imm{
+    width: 50px;
+}
+
+.top{
+    color: black;
+    text-align-last: right;
+}
+
+h1{
+    font-size: 150px;
+    font-family: cursive;
+    text-align-last: center;
+    color: blue;
+}
+
+input{
+    width: 700px; height: 50px;  border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px;
+    box-shadow: 8px 7px 6px grey;
+    
+}
+
+.box{
+    text-align: center;
+    margin-block-end: 50px;
+    
+}
+
+.nino{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin: auto;
+    
+    
+}
